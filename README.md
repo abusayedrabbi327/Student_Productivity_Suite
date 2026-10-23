@@ -86,3 +86,16 @@ The compiled APK will be located at `android/app/build/outputs/apk/debug/app-deb
 
 ## 🔒 Security & Privacy Notice
 All sensitive database connection strings, server service-role keys, and local environment files (`.env`) are strictly excluded from version control via `.gitignore`.
+
+---
+
+## ⚖️ Author & Intellectual Property License
+
+**Author & Creator:** [Abu Sayed Rabbi](https://github.com/abusayedrabbi327)  
+**Project:** Student Productivity Suite (UIU)  
+**Copyright:** © 2026 Abu Sayed Rabbi. All Rights Reserved.
+
+> **Proprietary Notice:**  
+> This project represents original, solo conceptualization, design, system architecture, and development by **Abu Sayed Rabbi**.  
+> All rights are reserved. No part of this software, source code, UI/UX designs, or documentation may be copied, modified, distributed, cloned, sublicensed, or used for commercial, personal, or unauthorized academic purposes without explicit prior written consent from the author.  
+> See the [LICENSE](file:///LICENSE) file for complete terms.

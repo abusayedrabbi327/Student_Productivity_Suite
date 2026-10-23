@@ -1,7 +1,9 @@
 {
-      "name": "HCI Final project _Ironman (new update)",
-      "version": "0.1.0",
-      "private": true,
+  "name": "student-productivity-suite",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Abu Sayed Rabbi",
+  "license": "UNLICENSED",
       "dependencies": {
             "@capacitor/android": "^8.5.3",
             "@capacitor/cli": "^8.5.3",
