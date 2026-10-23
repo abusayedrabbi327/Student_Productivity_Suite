@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Student Productivity Suite</string>
+    <string name="title_activity_main">Student Productivity Suite</string>
+    <string name="package_name">com.uiu.ironmansuite</string>
+    <string name="custom_url_scheme">com.uiu.ironmansuite</string>
+</resources>

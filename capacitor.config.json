@@ -1,0 +1,8 @@
+{
+  "appId": "com.uiu.ironmansuite",
+  "appName": "Student Productivity Suite",
+  "webDir": "build",
+  "server": {
+    "androidScheme": "https"
+  }
+}
